@@ -34,12 +34,14 @@ Colab gratuit efface tout après une période d'inactivité : il faut alors tout
 
 ## Modèles utilisés
 
- ### Étape  | Modèle utilisé              | Auteur  | Licence 
+ ### Étape  ->  Modèle utilisé              ->  Auteur  ->  Licence 
 
  Écoute     ->  omniASR_CTC_300M            ->  Meta AI ->  Apache-2.0
  
  Traduction ->  nllb-200-distilled-1.3B     ->  Meta AI ->  CC-BY-NC-4.0 
+ 
  Cerveau    ->  gpt-oss-20b, via l'API Groq ->  OpenAI  ->  Apache-2.0 
+ 
  Voix       ->  mms-tts-fon                 ->  Meta AI ->  CC-BY-NC-4.0 
 
 ## Choisir la taille des modèles
@@ -95,4 +97,4 @@ et hébergé par Groq. La voix (MMS-TTS) et la traduction (NLLB) sont sous licen
 non commerciale : ce projet est une démonstration gratuite. Vérifie les licences sur les pages officielles des modèles avant de
 réutiliser le projet.
 
-## Auteur : Roger NOUHOEFLIN 
+Auteur : Roger NOUHOEFLIN 
