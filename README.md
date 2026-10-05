@@ -36,10 +36,11 @@ Colab gratuit efface tout après une période d'inactivité : il faut alors tout
 
  ### Étape  | Modèle utilisé              | Auteur  | Licence 
 
- Écoute     | omniASR_CTC_300M            | Meta AI | Apache-2.0 
- Traduction | nllb-200-distilled-1.3B     | Meta AI | CC-BY-NC-4.0 
- Cerveau    | gpt-oss-20b, via l'API Groq | OpenAI  | Apache-2.0 
- Voix       | mms-tts-fon                 | Meta AI | CC-BY-NC-4.0 
+ Écoute     ->  omniASR_CTC_300M            ->  Meta AI ->  Apache-2.0
+ 
+ Traduction ->  nllb-200-distilled-1.3B     ->  Meta AI ->  CC-BY-NC-4.0 
+ Cerveau    ->  gpt-oss-20b, via l'API Groq ->  OpenAI  ->  Apache-2.0 
+ Voix       ->  mms-tts-fon                 ->  Meta AI ->  CC-BY-NC-4.0 
 
 ## Choisir la taille des modèles
 
