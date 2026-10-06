@@ -7,7 +7,7 @@ Projet de démonstration, réalisé avec des modèles ouverts sur Google Colab (
 
 ## Démo
 
-[Lien vers la vidéo de démonstration]
+[Voir la démonstration en vidéo](https://lien-de-ta-video)
 
 ## Comment ça marche
 
@@ -25,7 +25,7 @@ Deux façons de poser une question : écrire en fongbe ou parler dans le micro.
 
 1. Ouvre le carnet dans Colab : [![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rudigerroger/fon-gpt/blob/main/Fon_GPT.ipynb)
 2. Menu Exécution > Modifier le type d'exécution : choisis le GPU T4.
-3. Crée une clé gratuite sur console.groq.com/keys, puis ajoute-la dans les Secrets de
+3. Crée une clé gratuite sur console.groq.com/keys ([console.groq.com/keys](https://console.groq.com/keys)), puis ajoute-la dans les Secrets de
    Colab (icône clé à gauche) sous le nom `GROQ_API_KEY`, avec l'accès au notebook activé.
 4. Exécution > Tout exécuter.
 5. Ouvre le lien `gradio.live` affiché à la fin, dans un nouvel onglet.
