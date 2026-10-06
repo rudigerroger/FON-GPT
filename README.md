@@ -7,7 +7,7 @@ Projet de démonstration, réalisé avec des modèles ouverts sur Google Colab (
 
 ## Démo
 
-[Voir la démonstration en vidéo](https://lien-de-ta-video)
+[Voir la démonstration en vidéo](https://lnkd.in/p/eQfPFwPM)
 
 ## Comment ça marche
 
